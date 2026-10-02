@@ -1,0 +1,1 @@
+Sitio de Gran Rifa listo para GitHub Pages. index.html es público; admin.html es el panel local. data.json contiene el estado publicado. Para sincronización automática entre teléfonos hace falta conectar una base de datos/backend.
